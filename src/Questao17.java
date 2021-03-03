@@ -11,7 +11,7 @@ public class Questao17 {
 		int temperatura2 = entrada.nextInt(); 
 		
 		if(temperatura1 < 20 && temperatura2 > 20)
-			System.out.printf("Não vai chover");
+			System.out.print("Não vai chover");
 		else
 			System.out.print("Vai chover");
 
