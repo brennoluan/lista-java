@@ -24,6 +24,8 @@ public class Questao2 {
 			System.out.println("Escaleno");
 		else
 			System.out.println("Isoceles");
+		
+		entrada.close();
 
 	}
 
