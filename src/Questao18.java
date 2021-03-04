@@ -9,6 +9,7 @@ public class Questao18 {
 		int idade = entrada.nextInt();
 		
 		System.out.printf("%s no grupo de risco", idade > 40 ? "Está" : "Não está");
+		entrada.close();
 	}
 
 }

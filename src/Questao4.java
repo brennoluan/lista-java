@@ -12,5 +12,4 @@ public class Questao4 {
 		System.out.printf("Funcionário %s do sexo %s idade %d e estado civil %s recebe %.2f de salario", nome, sexo, idade, estadoCivil, salario);
 
 	}
-
 }

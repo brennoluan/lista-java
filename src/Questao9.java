@@ -13,6 +13,6 @@ public class Questao9 {
 		int subtracao = numero1-numero2;
 		
 		System.out.printf("A subtração de %d com %d é %d", numero1, numero2, subtracao);
+		entrada.close();
 	}
-
 }

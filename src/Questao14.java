@@ -14,7 +14,6 @@ public class Questao14 {
 		double media = (salario1+salario2+salario3)/3;
 		
 		System.out.printf("O salario médio da empresa é %.2f", media);
-
+		entrada.close();
 	}
-
 }

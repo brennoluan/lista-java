@@ -13,6 +13,6 @@ public class Questao10 {
 		int multiplicacao = numero1*numero2;
 		
 		System.out.printf("A multiplicação de %d com %d é %d", numero1, numero2, multiplicacao);
+		entrada.close();
 	}
-
 }

@@ -10,5 +10,4 @@ public class Questao3 {
 		System.out.printf("O cliente %s solicitou o produto %s para o endereço %s", nome, produto, endereco);
 
 	}
-
 }

@@ -13,6 +13,6 @@ public class Questao8 {
 		int soma = numero1+numero2;
 		
 		System.out.printf("A soma de %d com %d é %d", numero1, numero2, soma);
+		entrada.close();
 	}
-
 }

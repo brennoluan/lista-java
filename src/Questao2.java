@@ -10,5 +10,4 @@ public class Questao2 {
 		
 		System.out.printf("O aluno %s com cpf %s do sexo %s tem %d anos", nome, cpf, sexo, idade);
 	}
-
 }

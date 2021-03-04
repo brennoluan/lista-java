@@ -13,6 +13,6 @@ public class Questao11 {
 		int divisao = numero1/numero2;
 		
 		System.out.printf("A divisão de %d com %d é %d", numero1, numero2, divisao);
+		entrada.close();
 	}
-
 }

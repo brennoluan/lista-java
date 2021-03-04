@@ -14,7 +14,8 @@ public class Questao17 {
 			System.out.print("Não vai chover");
 		else
 			System.out.print("Vai chover");
-
+		
+		entrada.close();
 	}
 
 }

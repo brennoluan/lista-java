@@ -14,6 +14,6 @@ public class Questao6 {
 		String endereco = entrada.nextLine();
 		
 		System.out.printf("O cliente %s solicitou o produto %s para o endereço %s", nome, produto, endereco);
+		entrada.close();
 	}
-
 }

@@ -15,6 +15,6 @@ public class Questao13 {
 		double media = (nota1+nota2)/2;
 		
 		System.out.printf("O aluno %s obteve a média %.2f", nome, media);
+		entrada.close();
 	}
-
 }

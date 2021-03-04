@@ -18,6 +18,6 @@ public class Questao7 {
 		double salario = entrada.nextDouble();
 		
 		System.out.printf("Funcionário %s do sexo %s idade %d e estado civil %s recebe %.2f de salario", nome, sexo, idade, estadoCivil, salario);
+		entrada.close();
 	}
-
 }

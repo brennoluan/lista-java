@@ -9,7 +9,6 @@ public class Questao16 {
 		double media = entrada.nextDouble();
 		
 		System.out.printf("O aluno foi %s", media >= 7 ? "APROVADO" : "REPROVADO");
-
+		entrada.close();
 	}
-
 }
